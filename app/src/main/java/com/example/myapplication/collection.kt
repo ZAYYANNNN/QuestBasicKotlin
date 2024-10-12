@@ -49,6 +49,8 @@ fun ContohSet() {
     mutableShapes.remove("Circle")
     println(mutableShapes)
 
-
+    // Set Read-Only
+    val shapeLocked: Set<String> = mutableShapes
+    println(shapeLocked)
 
 }
