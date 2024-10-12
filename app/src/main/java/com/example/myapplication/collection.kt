@@ -27,5 +27,9 @@ fun ContohList() {
     val shapeLocked: List<String> = mutableShapes
     println(shapeLocked)
 
+}
 
+fun ContohSet() {
+    println()
+    println("=== Set ===")
 }
