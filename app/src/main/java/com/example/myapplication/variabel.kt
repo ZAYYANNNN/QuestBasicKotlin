@@ -17,6 +17,15 @@ fun main() {
     val doubleValue: Double = 60.6
     println("Double: $doubleValue")
 
+    // Char
+    val charValue: Char = 'A'
+    println("Char: $charValue")
+
+    // Boolean
+    val booleanValue: Boolean = true
+    println("Boolean: $booleanValue")
+
+
 
 
 }
